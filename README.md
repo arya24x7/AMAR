@@ -24,7 +24,7 @@ sudo apt-get install ros-melodic-gmapping ros-melodic-teleop-twist-keyboard ros-
 3. Clone the repository
 
 - `cd catkin_ws/src`
-- `git clone https://github.com/G1-k/LaMB.git`
+- `git clone https://github.com/arya24x7/AMAR.git`
 - `git clone https://github.com/NickL77/RPLidar_Hector_SLAM.git`	
 
 3. Build the workspace
